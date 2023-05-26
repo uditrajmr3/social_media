@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:social_media/helper/route_helper/chat_route_delegate.dart';
+export 'package:social_media/helper/route_helper/chat_route_information_parser.dart';
+export 'package:social_media/models/chats_list_path.dart';
+export 'package:social_media/models/chat_model.dart';
+export 'package:social_media/values/app_globals/app_lists.dart';
+export 'package:social_media/modules/chat_home.dart';
+export 'package:social_media/modules/chat_message.dart';
+export 'package:social_media/modules/chat_invalid.dart';
+export 'package:url_strategy/url_strategy.dart';

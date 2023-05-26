@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:social_media/models/chats_list_path.dart';
+import 'package:social_media/values/app_globals/app_exports.dart';
 
 class ChatRouteInformationParser extends RouteInformationParser<ChatListPath> {
 
